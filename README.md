@@ -1,6 +1,8 @@
-# Hi there 👋
+# Hello World! ⚡
 
-Full-Stack Web Devloper
+Student at ITT E. Barsanti Castelfranco Veneto (TV)
+
+Full-Stack Web Developer
 
 ![Ventuj Github Stats](https://github-readme-stats.vercel.app/api?username=Daniele-Venturin&theme=chartreuse-dark&show_icons=true)
 <!--
@@ -15,5 +17,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
