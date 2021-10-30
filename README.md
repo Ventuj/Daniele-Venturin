@@ -3,6 +3,7 @@
 Student at ITT E. Barsanti Castelfranco Veneto (TV)
 
 Full-Stack Web Developer
+Software Developer
 
 ![Ventuj Github Stats](https://github-readme-stats.vercel.app/api?username=Daniele-Venturin&theme=chartreuse-dark&show_icons=true)
 <!--
